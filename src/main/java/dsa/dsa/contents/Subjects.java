@@ -7,7 +7,7 @@ public class Subjects {
     private String stack;
     private String binarySearch;
     private String slidingWindow;
-    private String LinkedList;
+    private String linkedList;
     private String trees;
     private String tries;
     private String backTracking;
