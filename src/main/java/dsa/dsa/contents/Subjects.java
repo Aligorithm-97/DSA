@@ -19,5 +19,6 @@ public class Subjects {
     private String intervals;
     private String greedy;
     private String advancedGraphs;
+    
 
 }
