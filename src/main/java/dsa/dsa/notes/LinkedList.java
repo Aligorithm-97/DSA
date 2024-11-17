@@ -30,6 +30,10 @@ Singly linkedList
              Delete 1   O(n)      O(1)
              Delete all O(1)      O(1)
 
+Circular Singly LinkedList
+Doubly LinkedList
+Circular Doubly LinkedList
+
 */
 
 }
