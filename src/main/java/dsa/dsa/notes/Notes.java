@@ -1,7 +1,6 @@
 package dsa.dsa.notes;
 
 public class Notes {
-
  /*
 
 => Prefix Sum
@@ -100,5 +99,4 @@ Dynamic Programming
 1143. Longest Common Subsequence
 
 */
-
 }
