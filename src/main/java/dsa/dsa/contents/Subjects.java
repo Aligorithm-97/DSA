@@ -58,7 +58,9 @@ Circular Doubly LinkedList
 
 --------------------------------------------------------------
 
-Stack
+Stack (LIFO)
+
+    Can use with Array and LinkedList
 
     Methods = createStack , Push , Pop , Peek , isEmpty , isFull , deleteStack
         UseCase = Lifo functionalty , The chance of data corruption is minimum
@@ -67,7 +69,15 @@ Stack
 
 --------------------------------------------------------------
 
-Queue
+Queue (FIFO)
+
+    Can use with Array (Linear Queue , Circular Queue) and LinkedList
+
+    Methods = createQueue , Enqueue , Dequeue , Peek , isEmpty , isFull , deleteQueue
+        UseCase = Fifo functionalty , The chance of data corruption is minimum
+        Avoid = Random access is not possible
+
+
 
 --------------------------------------------------------------
 
