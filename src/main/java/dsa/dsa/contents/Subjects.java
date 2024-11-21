@@ -111,6 +111,16 @@ Tree / Binary Tree
                     depth of tree : depth of root node
                     height of tree : height of roof node
 
+    Binary Tree
+        Binary trees are the data structures in which each node has at most two children, often referred to as the left and right children
+        Binary tree is a family of data structure (Binary Search Tree , Heap Tree , AVL , Red Black Trees , Syntax Tree) -> they are all binary tree
+            Why -> Huffman coding problem , heap priority problem and expression parsing problems can be solved efficiently using binary trees
+        Types of Binary Tree
+            Full Binary Tree = 0 or 2 children not 1
+            Perfect Binary Tree = Every node has 2 children
+            Complete Binary Tree = Except last step all nodes are full
+            Balanced Binary Tree =  Left and right side are in equal level
+
 
 --------------------------------------------------------------
 
