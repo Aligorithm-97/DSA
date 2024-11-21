@@ -22,6 +22,8 @@ public class Subjects {
 
 /*
 
+Summary
+
 LinkedList
 
 Singly linkedList
@@ -57,6 +59,11 @@ Circular Doubly LinkedList
 --------------------------------------------------------------
 
 Stack
+
+    Methods = createStack , Push , Pop , Peek , isEmpty , isFull , deleteStack
+        UseCase = Lifo functionalty , The chance of data corruption is minimum
+        Avoid = Random access is not possible
+
 
 --------------------------------------------------------------
 
