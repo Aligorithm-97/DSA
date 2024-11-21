@@ -63,7 +63,7 @@ Stack (LIFO)
     Can use with Array and LinkedList
 
     Methods = createStack , Push , Pop , Peek , isEmpty , isFull , deleteStack
-        Use = Lifo functionalty , The chance of data corruption is minimum
+        Use = Lifo functionality , The chance of data corruption is minimum
         Avoid = Random access is not possible
 
 
@@ -74,7 +74,7 @@ Queue (FIFO)
     Can use with Array (Linear Queue , Circular Queue) and LinkedList
 
     Methods = createQueue , Enqueue , Dequeue , Peek , isEmpty , isFull , deleteQueue
-        Use = Fifo functionalty , The chance of data corruption is minimum
+        Use = Fifo functionality , The chance of data corruption is minimum
         Avoid = Random access is not possible
 
 
@@ -84,7 +84,7 @@ Queue (FIFO)
 Recursion
 
     Definition = A way of solving a problem by having a function calling itself
-        Use = When we can easily breakdown a problem into similar subproblems - When we need a quick solution instead of efficient one - When traverse a tree - When we use memoization in recursion (Dynamic Programming Subject)
+        Use = When we can easily break down a problem into similar sub problems - When we need a quick solution instead of efficient one - When traverse a tree - When we use memoization in recursion (Dynamic Programming Subject)
         Avoid = If time and space complexity matters - Uses more memory - Can be slow
         Recursion in 3 steps
             Step 1 - Recursive case - the flow
@@ -96,16 +96,16 @@ Recursion
 
 Tree / Binary Tree
 
-    Why = Quicker and easier access to the data - Store hierarchical data, like folder structure, organization structure, XML/HTML data - Unlike linear data structure no need to traverse all of the data
+    Why = Quicker and easier access to the data - Store hierarchical data, like folder structure, organization structure, XML/HTML data - Unlike linear data structure no need to traverse all the data
     Example = File system in computers
         There are many different types of data structures which performs better in various situations
-            - Binary Search Tree (allows finding closest item very quickly) , AVL , Red Black Tree , Trie
+            - Binary Search Tree (allows finding the closest item very quickly) , AVL , Red Black Tree , Trie
                 Tree Terminology
                     root : top node without parent
                     edge : a link between parent and child
                     leaf : a node which does not have children
                     sibling : children of same parent
-                    ancestor : parent , grandparent , great grandparent of a node
+                    ancestor : parent , grandparent , great-grandparent of a node
                     depth of node : a length of the path from root to node
                     height of node : a length of the path from the node to the deepest node
                     depth of tree : depth of root node
