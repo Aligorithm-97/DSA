@@ -63,7 +63,7 @@ Stack (LIFO)
     Can use with Array and LinkedList
 
     Methods = createStack , Push , Pop , Peek , isEmpty , isFull , deleteStack
-        UseCase = Lifo functionalty , The chance of data corruption is minimum
+        Use = Lifo functionalty , The chance of data corruption is minimum
         Avoid = Random access is not possible
 
 
@@ -74,7 +74,7 @@ Queue (FIFO)
     Can use with Array (Linear Queue , Circular Queue) and LinkedList
 
     Methods = createQueue , Enqueue , Dequeue , Peek , isEmpty , isFull , deleteQueue
-        UseCase = Fifo functionalty , The chance of data corruption is minimum
+        Use = Fifo functionalty , The chance of data corruption is minimum
         Avoid = Random access is not possible
 
 
@@ -82,6 +82,15 @@ Queue (FIFO)
 --------------------------------------------------------------
 
 Recursion
+
+    Definition = A way of solving a problem by having a function calling itself
+        Use = When we can easily breakdown a problem into similar subproblems - When we need a quick solution instead of efficient one - When traverse a tree - When we use memoization in recursion (Dynamic Programming Subject)
+        Avoid = If time and space complexity matters - Uses more memory - Can be slow
+        Recursion in 3 steps
+            Step 1 - Recursive case - the flow
+            Step 2 - Base case - the stopping criterion
+            Step 3 - Unintentional case - the constraint
+
 
 --------------------------------------------------------------
 
