@@ -96,6 +96,21 @@ Recursion
 
 Tree / Binary Tree
 
+    Why = Quicker and easier access to the data - Store hierarchical data, like folder structure, organization structure, XML/HTML data - Unlike linear data structure no need to traverse all of the data
+        There are many different types of data structures which performs better in various situations
+            - Binary Search Tree (allows finding closest item very quickly) , AVL , Red Black Tree , Trie
+                Tree Terminology
+                    root : top node without parent
+                    edge : a link between parent and child
+                    leaf : a node which does not have children
+                    sibling : children of same parent
+                    ancestor : parent , grandparent , great grandparent of a node
+                    depth of node : a length of the path from root to node
+                    height of node : a length of the path from the node to the deepest node
+                    depth of tree : depth of root node
+                    height of tree : height of roof node
+                    
+
 --------------------------------------------------------------
 
 Binary Search Tree
