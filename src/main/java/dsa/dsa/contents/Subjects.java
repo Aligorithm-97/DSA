@@ -170,7 +170,7 @@ Minimum Spanning Tree
 
 --------------------------------------------------------------
 
-Kruskal and Prim's Algorithms
+Kruskal and Prim 's Algorithms
 
 --------------------------------------------------------------
 
