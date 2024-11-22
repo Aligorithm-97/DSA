@@ -120,6 +120,14 @@ Tree / Binary Tree
             Perfect Binary Tree = Every node has 2 children
             Complete Binary Tree = Except last step all nodes are full
             Balanced Binary Tree =  Left and right side are in equal level
+        Binary Tree Traversal
+            Depth First Search
+                -Preorder traversal -> root-left-right
+                -Inorder traversal -> left-root-right
+                -Postorder traversal -> left-right-root
+            Breadth First Search
+                -Levelorder traversal -> level1-level2 etc
+
 
 
 --------------------------------------------------------------
