@@ -135,6 +135,10 @@ Tree / Binary Tree
 
 Binary Search Tree
 
+    Binary Search Tree = Left node less than or equal - right node greater
+    Why = It performs faster than binary tree when inserting and deleting nodes
+
+
 --------------------------------------------------------------
 
 Avl Tree
