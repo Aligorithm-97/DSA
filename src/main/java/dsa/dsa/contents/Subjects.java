@@ -126,7 +126,7 @@ Tree / Binary Tree
                 -Inorder traversal -> left-root-right
                 -Postorder traversal -> left-right-root
             Breadth First Search
-                -Levelorder traversal -> level1-level2 etc
+                -LevelOrder traversal -> level1-level2 etc
         Binary Tree with array -> first index empty and left node 2x right node 2x+1
 
 
