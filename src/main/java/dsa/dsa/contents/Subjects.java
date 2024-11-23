@@ -143,6 +143,8 @@ Binary Search Tree
 
 Avl Tree
 
+    Avl Tree is a self-balancing Binary Search Tree where the difference between heights of left and right subtrees cannot be more than one for all nodes
+
 --------------------------------------------------------------
 
 Binary Heap
