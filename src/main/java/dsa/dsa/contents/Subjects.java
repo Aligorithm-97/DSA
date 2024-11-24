@@ -144,6 +144,13 @@ Binary Search Tree
 Avl Tree
 
     Avl Tree is a self-balancing Binary Search Tree where the difference between heights of left and right subtrees cannot be more than one for all nodes
+    Insertion
+        Case 1 = Rotation is not required
+        Case 2 = Rotation is required
+            LL condition -> Right Rotation
+            LR condition
+            RR condition
+            RL condition
 
 --------------------------------------------------------------
 
