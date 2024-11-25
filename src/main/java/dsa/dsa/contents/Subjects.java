@@ -148,7 +148,7 @@ Avl Tree
         Case 1 = Rotation is not required
         Case 2 = Rotation is required
             LL condition -> Right Rotation (Root node becomes right node - left node becomes root - left left node becomes left)
-            LR condition
+            LR condition -> Left Rotation(Avl.java 86th line) + Right Rotation(Avl.java 77th line)
             RR condition
             RL condition
 
