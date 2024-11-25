@@ -191,6 +191,13 @@ Hashing
             Tree           |    O(logN)
             Hashing        |    O(1) / O(N)
 
+    Hashing Terminology
+        Hash function : It is a function that can be used to map of arbitrary size to data of fixed size.
+        Key : Input data by a user
+        Hash value : A value that is returned by Hash function
+        Hash table (Dictionary or HashMap) : It is a data structure which implements an associative array abstract data type, a structure that can map keys to values
+        Collision : A collision occurs when two different keys to a hash function produce the same output.
+
 --------------------------------------------------------------
 
 Sorting Algorithms
