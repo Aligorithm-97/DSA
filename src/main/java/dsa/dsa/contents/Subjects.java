@@ -147,7 +147,7 @@ Avl Tree
     Insertion
         Case 1 = Rotation is not required
         Case 2 = Rotation is required
-            LL condition -> Right Rotation
+            LL condition -> Right Rotation (Root node becomes right node - left node becomes root - left left node becomes left)
             LR condition
             RR condition
             RL condition
