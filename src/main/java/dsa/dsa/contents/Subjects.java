@@ -147,10 +147,10 @@ Avl Tree
     Insertion
         Case 1 = Rotation is not required
         Case 2 = Rotation is required
-            LL condition -> Right Rotation (Root node becomes right node - left node becomes root - left left node becomes left)
+            LL condition -> Right Rotation(Avl.java 77th line) (Root node becomes right node - left node becomes root - left left node becomes left)
             LR condition -> Left Rotation(Avl.java 86th line) + Right Rotation(Avl.java 77th line)
-            RR condition
-            RL condition
+            RR condition -> Left Rotation(Avl.java 86th line)
+            RL condition -> Right Rotation(Avl.java 77th line) + Left Rotation(Avl.java 86th line)
 
 --------------------------------------------------------------
 
