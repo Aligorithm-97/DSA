@@ -182,6 +182,15 @@ Trie
 
 Hashing
 
+    Hashing is a method of sorting and indexing data. The idea behind hashing is to allow large amounts of data to be indexed using keys commonly created by formulas.
+    Why
+        It is time efficient in case of SEARCH operations.
+            Data Structure |    Time Complexity for Search
+            Array          |    O(logN)
+            Linked List    |    O(N)
+            Tree           |    O(logN)
+            Hashing        |    O(1) / O(N)
+
 --------------------------------------------------------------
 
 Sorting Algorithms
