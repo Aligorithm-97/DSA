@@ -147,7 +147,7 @@ Avl Tree
     Insertion
         Case 1 = Rotation is not required
         Case 2 = Rotation is required
-            LL condition -> Right Rotation(Avl.java 77th line) (Root node becomes right node - left node becomes root - left left node becomes left)
+            LL condition -> Right Rotation(Avl.java 77th line) (Root node becomes right node - left node becomes root - left-left node becomes left)
             LR condition -> Left Rotation(Avl.java 86th line) + Right Rotation(Avl.java 77th line)
             RR condition -> Left Rotation(Avl.java 86th line)
             RL condition -> Right Rotation(Avl.java 77th line) + Left Rotation(Avl.java 86th line)
@@ -169,11 +169,11 @@ Trie
     A trie is a tree-based data structure that organizes information in a hierarchy.
         Properties :
             - It is typically used to store or search strings in a space and time efficient way.
-            - Any node in trie can store non repetitive multiple characters.
+            - Any node in trie can store non-repetitive multiple characters.
             - Every node stores link of the next character of the string
             - Every node keeps track of 'end of string'
     Why
-        To solve many standary problems in efficient way
+        To solve many standard problems in efficient way
             - Spelling checker
             - Auto completion
 
