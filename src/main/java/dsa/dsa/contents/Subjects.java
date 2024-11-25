@@ -156,6 +156,12 @@ Avl Tree
 
 Binary Heap
 
+    Binary Heap is a Binary Tree with following properties:
+        A Binary Heap is either Min Heap or Max Heap. In a Min Binary Heap, the key at root must be minimum among all keys present in Binary Heap.
+        It's a complete tree. All levels are completely filled except possibly the last level and the last level has all keys as left as possible.
+        Max heap exactly the opposite of min heap
+
+
 --------------------------------------------------------------
 
 Trie
