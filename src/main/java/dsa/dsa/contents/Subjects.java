@@ -199,11 +199,11 @@ Hashing
         Collision : A collision occurs when two different keys to a hash function produce the same output.
 
     Collision Resolution Techniques
-        - Direct Chaining : Implements the buckets as linked list. Colliding elements are stored in this lists. If collision occurs than add it into a linked list. Inserting references to hash table.
-        - Open Adressing :
-            - Linear Probing :
-            - Quadratic Probing :
-            - Double Hashing :
+        - Direct Chaining : Implements the buckets as linked list. Colliding elements are stored in this lists. If collision occurs then add it into a linked list. Inserting references to hash table.
+        - Open Adressing : Create 2x size of current Hash Table and recall hashing for current keys. Colliding elements are stored in other vacant buckets. During storage and lookup these are found through so called probing.
+            - Linear Probing : It places new key into closest following empty cell. If 2 is occupied then move to 3 check if it is occupied or not and then move on to the next empty cell.
+            - Quadratic Probing : Adding arbitrary quadratic polynomial to the index until an empty cell is found. Ex / cell 2 is occupied then 2 + 1 square = 3 if 3 is occupied 2 + 2 square 6 ... 3 square etc
+            - Double Hashing : Interval between probes is computed by another hash function. Hash function 2
 
 
 --------------------------------------------------------------
