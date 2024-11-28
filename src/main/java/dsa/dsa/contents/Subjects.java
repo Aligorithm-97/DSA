@@ -198,6 +198,9 @@ Hashing
         Hash table (Dictionary or HashMap) : It is a data structure which implements an associative array abstract data type, a structure that can map keys to values
         Collision : A collision occurs when two different keys to a hash function produce the same output.
 
+    Collision Resolution Techniques
+
+
 --------------------------------------------------------------
 
 Sorting Algorithms
