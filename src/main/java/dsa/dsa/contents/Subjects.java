@@ -199,6 +199,11 @@ Hashing
         Collision : A collision occurs when two different keys to a hash function produce the same output.
 
     Collision Resolution Techniques
+        - Direct Chaining : Implements the buckets as linked list. Colliding elements are stored in this lists. If collision occurs than add it into a linked list. Inserting references to hash table.
+        - Open Adressing :
+            - Linear Probing :
+            - Quadratic Probing :
+            - Double Hashing :
 
 
 --------------------------------------------------------------
