@@ -210,6 +210,8 @@ Hashing
 
 Sorting Algorithms
 
+    By definition sorting refers to arranging data in a particular format : either ascending or descending.
+
 --------------------------------------------------------------
 
 Searching Algorithms
