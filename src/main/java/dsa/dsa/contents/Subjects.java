@@ -217,6 +217,10 @@ Sorting Algorithms
             - Selection Sort
                 Definition : In case of selection sort we repeatedly find the minimum element and move it to the sorted part of array to make unsorted part sorted.
             - Insertion Sort
+                Definition :
+                    - Divide the given array into two part
+                    - Take first element from unsorted array and find its correct position in sorted array
+                    - Repeat until unsorted array is empty
             - Bucket Sort
             - Merge Sort
             - Quick Sort
