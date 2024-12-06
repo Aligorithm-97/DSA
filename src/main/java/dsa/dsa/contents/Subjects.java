@@ -237,6 +237,10 @@ Sorting Algorithms
                     - Find pivot number and make sure smaller numbers located at the left pivot and bigger numbers are located at the right of the pivot
                     - Unlike merge sort extra space is not required
             - Heap Sort
+                Definiton :
+                    - Step 1 : Insert data to Binary heap tree
+                    - Step 2 : Extract data from Binary heap
+                    - It is best suited with array, it does not work with linked list
 
 
 --------------------------------------------------------------
