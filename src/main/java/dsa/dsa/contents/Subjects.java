@@ -227,6 +227,10 @@ Sorting Algorithms
                     - Sort buckets individually
                     - Merge buckets after sorting
             - Merge Sort
+                Definition :
+                    - Merge sort is a divide and conquer algorithm
+                    - Divide the input array in two halves and we keep halving recursively until they become too small that cannot be broken further
+                    - Merge halves by sorting them
             - Quick Sort
             - Heap Sort
 
