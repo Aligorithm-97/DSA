@@ -222,6 +222,10 @@ Sorting Algorithms
                     - Take first element from unsorted array and find its correct position in sorted array
                     - Repeat until unsorted array is empty
             - Bucket Sort
+                Definition :
+                    - Create buckets and distribute elements of array into buckets
+                    - Sort buckets individually
+                    - Merge buckets after sorting
             - Merge Sort
             - Quick Sort
             - Heap Sort
