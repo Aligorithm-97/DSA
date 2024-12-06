@@ -215,6 +215,7 @@ Sorting Algorithms
             - Bubble Sort
                 Definition : We repeatedly compare each pair of adjacent(near) items and swap them if they are in the wrong order.
             - Selection Sort
+                Definition : In case of selection sort we repeatedly find the minimum element and move it to the sorted part of array to make unsorted part sorted.
             - Insertion Sort
             - Bucket Sort
             - Merge Sort
