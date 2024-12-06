@@ -232,6 +232,10 @@ Sorting Algorithms
                     - Divide the input array in two halves and we keep halving recursively until they become too small that cannot be broken further
                     - Merge halves by sorting them
             - Quick Sort
+                Definition :
+                    - Quick sort is a divide and conquer algorithm
+                    - Find pivot number and make sure smaller numbers located at the left pivot and bigger numbers are located at the right of the pivot
+                    - Unlike merge sort extra space is not required
             - Heap Sort
 
 
