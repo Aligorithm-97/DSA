@@ -211,6 +211,15 @@ Hashing
 Sorting Algorithms
 
     By definition sorting refers to arranging data in a particular format : either ascending or descending.
+        Sorting Algorithms
+            - Bubble Sort
+            - Selection Sort
+            - Insertion Sort
+            - Bucket Sort
+            - Merge Sort
+            - Quick Sort
+            - Heap Sort
+
 
 --------------------------------------------------------------
 
