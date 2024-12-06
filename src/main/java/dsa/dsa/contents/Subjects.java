@@ -213,6 +213,7 @@ Sorting Algorithms
     By definition sorting refers to arranging data in a particular format : either ascending or descending.
         Sorting Algorithms
             - Bubble Sort
+                Definition : We repeatedly compare each pair of adjacent(near) items and swap them if they are in the wrong order.
             - Selection Sort
             - Insertion Sort
             - Bucket Sort
