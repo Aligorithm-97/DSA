@@ -247,6 +247,12 @@ Sorting Algorithms
 
 Searching Algorithms
 
+    Linear Search : To find the desired element by searching the entire list one by one.
+    Binary Search :
+        - Binary search is faster than Linear Search.
+        - Half of the remaining elements can be eliminated at a time, instead of eliminating them one by one.
+        - Binary Search only works for sorted arrays.
+
 --------------------------------------------------------------
 
 Graphs
