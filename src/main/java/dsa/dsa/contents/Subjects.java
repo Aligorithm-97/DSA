@@ -269,6 +269,9 @@ Graphs
         - Acyclic graph : A graph with no loop.
         - Tree : It is special case of directed acyclic graphs.
 
+    If a graph is complete or almost complete we should use Adjacency Matrix
+    If the number of edges are few then we should use Adjacency List
+
 
 --------------------------------------------------------------
 
