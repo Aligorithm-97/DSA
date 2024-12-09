@@ -261,7 +261,7 @@ Graphs
     Graph Terminology
         - Vertices(vertex) : Vertices are the nodes of the graph.
         - Edge : The edge is the line that connects pairs of vertices.
-        - Unweighted graph : A graph whice does not have a weight associated with any edge.
+        - Unweighted graph : A graph which does not have a weight associated with any edge.
         - Weighted graph :  A graph which has a weight associated with any edge.
         - Undirected graph : In case the edges of the graph do not have a direction associated with them.
         - Directed graph : If the edges in a graph have a direction associated with them.
@@ -296,7 +296,7 @@ Topological Sort
 
 --------------------------------------------------------------
 
-Single Source Shortest Path Problem (SSSPP)
+Single Source Shortest Path Problem ( SSS_PP )
 
     Solve with :
         - BFS
