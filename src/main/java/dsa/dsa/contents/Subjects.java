@@ -296,6 +296,18 @@ Topological Sort
 
 --------------------------------------------------------------
 
+Single Source Shortest Path Problem (SSSPP)
+
+    Solve with :
+        - BFS
+        - Dijkstra's Algorithm
+        - Bellman Ford
+
+    BFS does not work with weighted Graph.
+    DFS has the tendency to go "as far as possible" from source, hence it can never find "Shortest path"
+
+--------------------------------------------------------------
+
 Dijkstra's Algorithm
 
 --------------------------------------------------------------
