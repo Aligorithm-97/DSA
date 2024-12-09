@@ -303,12 +303,14 @@ Single Source Shortest Path Problem (SSSPP)
         - Dijkstra's Algorithm
         - Bellman Ford
 
-    BFS does not work with weighted Graph.
+    BFS does not work with weighted Graph. So for weighted problems use dijkstra's algorithm or bellman.
     DFS has the tendency to go "as far as possible" from source, hence it can never find "Shortest path"
 
 --------------------------------------------------------------
 
 Dijkstra's Algorithm
+
+    Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a weighted graph, which may represent, for example, a road network.
 
 --------------------------------------------------------------
 
