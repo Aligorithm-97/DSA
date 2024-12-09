@@ -257,6 +257,9 @@ Searching Algorithms
 
 Graphs
 
+    Graph consists of a finite set of Vertices(or nodes) and set of Edges which connect a pair of nodes.
+
+
 --------------------------------------------------------------
 
 BFS-DFS (Breadth First Search ...)
