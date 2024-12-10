@@ -331,6 +331,15 @@ Floyd Warshall Algorithm
 
 Minimum Spanning Tree
 
+    A minimum spanning tree is a subset of the edges of connected, weighted and undirected graph which:
+        - Connect all vertices together
+        - No cycle
+        - Minimum total edge
+
+    Disjoint Set :
+        It is a data structure that keeps track of set of elements which are partitioned into a number of disjoint and non overlapping sets and each sets have representative which helps in identifying that sets.
+        makeSet(N) , union(x,y) , findSet(x)
+
 --------------------------------------------------------------
 
 Kruskal and Prim 's Algorithms
