@@ -379,6 +379,9 @@ Greedy Algorithms
 
 Divide and Conquer Algorithms
 
+    - Merge Sort
+    - Quick Sort
+
 --------------------------------------------------------------
 
 Dynamic Programming
