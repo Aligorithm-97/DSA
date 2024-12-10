@@ -405,6 +405,17 @@ Dynamic Programming
     Bottom Up with Tabulation :
         Tabulation is the opposite of the top-down approach and avoids recursion. In this approach, we solve the problem "bottom-up" . This is done by filling up a
         table. Based on the results in the table, the solution to the top/original problem is the computed.
+
+
+--------------------------------------------------------------
+
+Problem Solving Recipe
+    - Step 1 : Understand the problem
+    - Step 2 : Explore examples
+    - Step 3 : Break it down
+    - Step 4 : Solve
+    - Step 5 : Look back and refactor
+
 --------------------------------------------------------------
 
 Backtracking
