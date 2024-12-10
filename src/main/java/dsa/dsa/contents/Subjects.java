@@ -382,6 +382,15 @@ Divide and Conquer Algorithms
     - Merge Sort
     - Quick Sort
 
+    * Number Factor
+    * House Robber
+    * Convert one string to another
+    * Zero one knapsack
+    * Longest common subsequence
+    * Longest palindromic subsequence
+    * Minimum cost to reach last cell
+    * Number of paths to reach the last cell with given cost
+
 --------------------------------------------------------------
 
 Dynamic Programming
