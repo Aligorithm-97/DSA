@@ -402,6 +402,9 @@ Dynamic Programming
         Solve the bigger problem by recursively finding the solution to smaller subproblems. Whenever we solve a sub-problem, " we cache its result " so that
         we don't end up solving it repeatedly if it's called multiple times. This technique of storing the results of already solved subproblems is called * Memoization *.
 
+    Bottom Up with Tabulation :
+        Tabulation is the opposite of the top-down approach and avoids recursion. In this approach, we solve the problem "bottom-up" . This is done by filling up a
+        table. Based on the results in the table, the solution to the top/original problem is the computed.
 --------------------------------------------------------------
 
 Backtracking
