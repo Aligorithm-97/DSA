@@ -362,6 +362,19 @@ Prim
 
 Greedy Algorithms
 
+    - Insertion Sort
+    - Selection Sort
+    - Topological Sort
+    - Prim's Algorithm
+    - Kruskal Algorithm
+
+    * Activity Selection Problem
+        You are given n activities with their start and finish times. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a time.
+    * Coin Change Problem
+        Given an integer array of coins[] of size n representing different types of denominations and an integer sum, the task is to count all combinations of coins to make a given value sum.
+    * Fractional Knapsack Problem
+        Given the weights and profits of N items, in the form of {profit, weight} put these items in a knapsack of capacity W to get the maximum total profit in the knapsack. In Fractional Knapsack, we can break items for maximizing the total value of the knapsack.
+
 --------------------------------------------------------------
 
 Divide and Conquer Algorithms
