@@ -344,6 +344,20 @@ Minimum Spanning Tree
 
 Kruskal and Prim 's Algorithms
 
+Kruskal
+    It is a greedy algorithm
+    It finds a minimum spanning tree for weighted undirected graphs in two steps :
+        - Add increasing cost edges at each step
+        - Avoid any cycle at each step
+
+Prim
+    - Determine an arbitrary vertex as the starting vertex of the MST.
+    - Follow steps 3 to 5 till there are vertices that are not included in the MST (known as fringe vertex).
+    - Find edges connecting any tree vertex with the fringe vertices.
+    - Find the minimum among these edges.
+    - Add the chosen edge to the MST if it does not form any cycle.
+    - Return the MST and exit
+
 --------------------------------------------------------------
 
 Greedy Algorithms
