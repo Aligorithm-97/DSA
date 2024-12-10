@@ -316,6 +316,8 @@ Dijkstra's Algorithm
 
 Bellman Ford Algorithm
 
+    Bellman Ford Algorithm is used to find single source shortest path problem. If there is a negative cycle it catches it and report its existance.
+
 --------------------------------------------------------------
 
 Floyd Warshall Algorithm
