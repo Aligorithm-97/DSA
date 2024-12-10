@@ -322,6 +322,11 @@ Bellman Ford Algorithm
 
 Floyd Warshall Algorithm
 
+    Why :
+        - The vertex is not reachable
+        - Two vertices are directly connected
+        - Two vertices are connected via other vertex
+
 --------------------------------------------------------------
 
 Minimum Spanning Tree
